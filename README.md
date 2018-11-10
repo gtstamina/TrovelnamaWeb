@@ -1,2 +1,2 @@
 # TrovelnamaWeb
-TrovelnamaWebsite owned by gauravand lavish
+TrovelnamaWebsite owned by gaurav and lavish and mayank
