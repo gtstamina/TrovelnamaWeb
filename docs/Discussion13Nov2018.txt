@@ -1,0 +1,41 @@
+Home Page ideas : 
+
+First , image carousel
+Second, Introductory video
+
+
+
+Footer, Social links, other links like about us, contact us etc. 
+
+
+Email verfication ??
+
+
+After sign up : 
+ user can update my account
+ 
+ Myaccount jobseeker : 
+	profile pic
+	Full Name
+	Gender
+	Date of birth
+	Mobile number
+	Alternate Mobile number
+	Key skills
+	Previous Adventures
+	Upload Skill Certificates
+	Social Links/ give permission to provider
+	
+My account Jobprovider : 
+	profile pic
+	Full Name
+	Gender
+	Date of birth
+	Company name
+	
+	
+	
+--- Arrange seeker and provider , manual effort. after that ask them to sign up
+	
+	
+	
